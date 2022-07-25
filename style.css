@@ -69,6 +69,7 @@ hr{
     font-family: Poppins;
     text-transform: uppercase;
     border-radius: 5px;
+    margin: 5px 0;
 }
 
 .group-form input[type=submit]{
@@ -78,8 +79,6 @@ hr{
     color: white;
     letter-spacing: 1px;
     cursor: pointer;
-    text-align: center;
-    color:#333;
 }
 
 #idpokemon img{
@@ -101,4 +100,4 @@ hr{
     text-align: center;
     color:#333;
 
-}
+} 
