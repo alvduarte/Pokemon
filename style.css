@@ -63,16 +63,18 @@ hr{
 }
 
 .group-form input{
-    width: 100%;
+    width: 90%;
     padding: 10px;
     border: 1px solid #ccc;
     font-family: Poppins;
+    text-align: center;
     text-transform: uppercase;
     border-radius: 5px;
     margin: 5px 0;
 }
 
 .group-form input[type=submit]{
+    width: 100%;
     background: #1b356e;
     font-weight: 900;
     font-size: 1rem;
